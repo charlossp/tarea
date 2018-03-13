@@ -1,0 +1,121 @@
+</!DOCTYPE html>
+<html>
+<style>
+	#table {
+    border: 1px solid black;
+    padding: 15px;
+    size: 24px;
+    margin-bottom: "15px";
+    border: 1px solid #999999;
+    text-align:center;
+    background-color: "light gray";
+}
+	#heading1{
+		background-color:lightgray;
+		size: 24px;
+		color: blue;
+		font-size: 24px;
+		font-family: georgia;
+		letter-spacing: 1.6em;
+		word-spacing: 2em;
+		font-weight: bold;
+	}
+	#heading2{
+		color: dark;
+		font-size: 18px;
+		font-family: georgia;
+		letter-spacing: 1.4em;
+		text-align: left;
+	}
+	#izq{
+		float:left;
+		text-align: center;
+		font-weight: bold;
+	}
+	#der{
+		float: right;
+		text-align: center;
+	}
+	table{
+		width: 100%;
+	}
+	th{
+			width: 25%;
+			height: 40px;
+			text-align: left;	}
+	td{
+		width: 75%;
+			text-align: left;
+
+	}
+</style>
+<head>
+	<title>Curriculum2</title>
+</head>
+<body>
+	<section id="table">
+		<section id="heading1">
+			<p>Curriculum</p>
+			<p>Vitae</p>
+ 		</section>	
+ <section>
+ 		<section style="text-align:left;" >
+ 			<h1 id="heading2" style="color: red">PERSONAL DATA</h1>
+ 			<p>Name:Amazant</p>
+ 			<p>Surname:Amazant</p>
+ 			<p>Date of birth:30.07.74</p>
+ 			<p>Place of birth:Bishkek,Kyrgysztan</p>
+ 		</section>
+		<h1 id="heading2" style="color: red">EDUCATION</h1>
+	</section>
+<table>
+		<tr>
+				<th>2005-2009</th>>
+			<td>
+				Computer Engiennering in the Thecnical University of KYKESK in Bishkek
+			</td>
+		</tr>
+		<tr>
+			<th>2001-2005</th>
+				<td>	High School "Manas" in Osh</td>
+		</tr>
+		<tr>
+				<th>
+					1995-2001
+				</th>
+				<td>
+						Primary school
+				</td>
+		</tr>
+	</table>
+		<h1 id="heading2" style="color: red">PROFESIONAL EXPERIENCE</h1>
+			<table>
+						<tr>
+				<th>
+					2007-2009
+				</th>
+		
+				<td>
+						Computer teacher in high school in bishkek
+				</td>
+			</tr>
+			<tr>
+				<th>
+					
+					2005-2009
+				</th>
+		
+				<td>
+
+
+						Secretary of department o0f software
+				</td>
+			</tr>
+		</table>
+			</article>
+		</section>
+
+	</section>
+</section>
+</body>
+</html>
